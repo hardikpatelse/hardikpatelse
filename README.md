@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Hardik Patel
 
-<!--
-**hardikpatelse/hardikpatelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Architect | SaaS Product Engineer | AI-Augmented Full Stack Developer  
+💼 11+ years of enterprise software experience in .NET, Azure, Angular, and OpenAI integrations  
+🌎 Open to remote work globally | Actively building AI-powered SaaS systems
 
-Here are some ideas to get you started:
+### 🛠️ Key Projects
+- 🔹 [AIChatBot](https://github.com/hardikpatelse/AIChatBot): Modular chatbot system with GPT-4o, tools, agents, plan executor, RAG (WIP)
+- 🔹 [LinkedIn Auto Posting Workflow](https://github.com/hardikpatelse/linkedin-ai-posting-workflow): GPT-4o powered post generation and scheduling automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+`.NET 8+` | `Angular 19/20` | `Azure PaaS` | `AI Integration` | `OpenAI GPT-4o` | `SQL Server` | `CI/CD` | `Clean Arch`
+
+📬 Reach me at [hardikpatel.se@gmail.com](mailto:hardikpatel.se@gmail.com)
