@@ -5,6 +5,7 @@
 🌎 Open to remote work globally | Actively building AI-powered SaaS systems
 
 ### 🛠️ Key Projects
+- 🔹 [InsightSage-AI](https://github.com/hardikpatelse/InsightSage-AI): Multi-tenant AI SaaS platform with .NET 8, Angular 20, and Azure PaaS integrating GPT-4o for intelligent workflows
 - 🔹 [AIChatBot](https://github.com/hardikpatelse/AIChatBot): Modular chatbot system with GPT-4o, tools, agents, plan executor, RAG (WIP)
 - 🔹 [LinkedIn Auto Posting Workflow](https://github.com/hardikpatelse/linkedin-ai-posting-workflow): GPT-4o powered post generation and scheduling automation
 
